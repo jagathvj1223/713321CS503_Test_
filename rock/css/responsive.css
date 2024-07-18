@@ -1,0 +1,29 @@
+
+ @media (min-width: 576px) and (max-width: 767px) {
+     .menu-area-main li.active a {
+         background: transparent;
+         box-shadow: inherit;
+    }
+     
+}
+    
+     .banner-main .text-bg h1 {
+        font-size: 24px;
+         line-height: 38px;
+    }
+     .Perfect {
+        font-size: 23px;
+    }
+     .banner-main .text-bg p {
+        display: none;
+    }
+     .banner-main .text-bg a {
+        width: 163px;
+         padding: 3px 0;
+         font-size: 16px;
+    }
+     
+     
+    
+
+ 
